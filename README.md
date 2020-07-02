@@ -1,2 +1,2 @@
-# deepstan
-OpenSource Project: Exact Bayesian Inference for Deep Learning in Stan (2020)
+# DeepStan
+Open-Source Library for Deep Learning in the Stan Programming Language 
